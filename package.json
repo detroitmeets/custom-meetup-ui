@@ -4,7 +4,7 @@
   "description": "A theme-able custom website for technology-focused meetups.",
   "main": "index.js",
   "dependencies": {
-    "next": "^8.1.0",
+    "next": "^11.1.0",
     "prop-types": "^15.7.2",
     "prop-types-exact": "^1.2.0",
     "react": "^16.8.6",
